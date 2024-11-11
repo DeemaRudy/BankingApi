@@ -9,7 +9,12 @@ Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "BankingApp.BLL", "BankingAp
 EndProject
 Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "BankingApp.DAL", "BankingApp.DL\BankingApp.DAL.csproj", "{93BCCED9-5FAD-4B2B-B9FD-76DA96C85121}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "BankingApp.BLL.Tests", "BankingApp.BLL.Tests\BankingApp.BLL.Tests.csproj", "{C02D1B73-33C3-47E8-B0D1-07707A833582}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "BankingApp.BLL.Tests", "BankingApp.BLL.Tests\BankingApp.BLL.Tests.csproj", "{C02D1B73-33C3-47E8-B0D1-07707A833582}"
+EndProject
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "Solution Items", "Solution Items", "{3624956A-9200-47B6-8F2C-5057F97BABD1}"
+	ProjectSection(SolutionItems) = preProject
+		README.md = README.md
+	EndProjectSection
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
