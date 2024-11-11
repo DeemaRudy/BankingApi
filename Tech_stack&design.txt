@@ -1,0 +1,8 @@
+Entity Framework and SQLite DB were chosen for data storage.
+NUnit framework was used for testing
+
+The project is developed by 3 layers architecture. It includes : api layer, business logic and data access.
+It was attempted to adhere to the SOLID principles during development.
+
+Design:
+A user can have more than one account, so additional endpoints for user registration have been implemented. Because an account cannot be created without a user.
